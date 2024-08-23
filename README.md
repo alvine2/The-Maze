@@ -1,6 +1,7 @@
 # alx portfolio project (The-maze)
 
-![gif cut from game](/pics/readme_gif.gif)
+![Description of the image](https://github.com/alvine2/alx_maze-project/blob/main/pics/readme_gif.gif?raw=true)
+
 
 ## Table of Content
 - [Introduction](#introduction)
